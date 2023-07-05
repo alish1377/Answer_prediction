@@ -1,0 +1,6 @@
+matplotlib==3.5.1
+numpy==1.22.3
+scikit_learn==1.1.1
+scipy==1.7.3
+pandas    # Add pandas package to requirement.txt
+torch torchvision torchaudio      # Add torch package to requirement.txt
